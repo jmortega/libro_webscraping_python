@@ -1,0 +1,2 @@
+http://www.python.org
+http://www.python.org/downloads

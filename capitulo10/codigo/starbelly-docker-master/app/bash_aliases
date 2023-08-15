@@ -1,0 +1,4 @@
+set -o vi
+alias l='ls -l'
+alias ll='ls -lah'
+export TERM=xterm
